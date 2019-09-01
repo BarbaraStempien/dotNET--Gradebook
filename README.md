@@ -10,7 +10,9 @@
 
 ## Description
 
-In this project, I'll create a gradebook application in C# and .NET Core.
+In this project, I'll create a gradebook application in C# and .NET Core. 
+
+Electronic gradebook will be able to read the scores of an individual student and then compute some simple statistics from the scores. The grades are entered as floating point numbers from 0 to 100, and the statistics show the highest grade, the lowest grade, and the average grade.
 
 ## Tools & Dependencies
 
