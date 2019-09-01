@@ -1,0 +1,11 @@
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\StempBar\OneDrive - Electrolux\Roaming\Desktop\Courses\dotNET--Gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
